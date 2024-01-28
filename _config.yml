@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: aomaのNISA講座
+title: aomaのやさしいプログラミング講座
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  aomaがNISAや投資についてわかりやすく簡潔にまとめています。
-  新NISAを始めたいけど、そもそもNISAって何？投資は初めてで不安という方にオススメです。
-  一緒に勉強していきましょう！
+  aomaがプログラミングについてわかりやすく説明します。
+  エンジニアになりたいけど、そもそもプログラムって何？という方にオススメです。
 twitter_username: aoma23
 github_username: aoma23
 minimal_mistakes_skin: default
@@ -62,11 +61,11 @@ plugins:
 author:
   name   : "aoma"
   avatar : "/assets/images/aoma.png"
-  bio    : "aomaがNISAや投資についてわかりやすく簡潔にまとめています。新NISAを始めたいけど、そもそもNISAって何？投資は初めてで不安という方にオススメです。一緒に勉強していきましょう！"
+  bio    : "aomaがプログラミングについてわかりやすく説明します。エンジニアになりたいけど、そもそもプログラムって何？という方にオススメです。"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://aoma23.github.io/pages_nisa/"
+      url: "https://aoma23.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aoma23"
